@@ -1,2 +1,2 @@
 # king-puppet
-for testing
+How it work
